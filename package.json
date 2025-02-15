@@ -1,0 +1,24 @@
+{
+	"name": "yin-color-scheme",
+	"displayName": "yin color scheme",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "yin",
+				"uiTheme": "vs-dark",
+				"path": "./themes/yin-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 16059
+	}
+}
