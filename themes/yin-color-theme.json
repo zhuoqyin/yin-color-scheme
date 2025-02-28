@@ -115,7 +115,7 @@
       "scope": ["variable.language", "support.variable.magic"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#81a1c1"
+        "foreground": "#b294bb"
       }
     },
     {
@@ -176,7 +176,7 @@
       "name": "Function parameters",
       "scope": ["variable.parameter", "meta.parameters"],
       "settings": {
-        "foreground": "#D89750"
+        "foreground": "#ffe5b5"
       }
     },
     {
@@ -231,10 +231,10 @@
       }
     },
     {
-      "name": "Entity name",
+      "name": "Entity name/type",
       "scope": ["entity.name.type"],
       "settings": {
-        "foreground": "#ffe5b5"
+        "foreground": "#D89750"
       }
     },
     {
